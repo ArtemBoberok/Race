@@ -1,0 +1,12 @@
+X:\Race\Race\Race\bin\Debug\Race.exe.config
+X:\Race\Race\Race\bin\Debug\Race.exe
+X:\Race\Race\Race\bin\Debug\Race.pdb
+X:\Race\Race\Race\obj\Debug\Race.csproj.AssemblyReference.cache
+X:\Race\Race\Race\obj\Debug\Race.csproj.SuggestedBindingRedirects.cache
+X:\Race\Race\Race\obj\Debug\Race.Form1.resources
+X:\Race\Race\Race\obj\Debug\Race.Properties.Resources.resources
+X:\Race\Race\Race\obj\Debug\Race.csproj.GenerateResource.cache
+X:\Race\Race\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+X:\Race\Race\Race\obj\Debug\Race.exe
+X:\Race\Race\Race\obj\Debug\Race.pdb
+X:\Race\Race\Race\obj\Debug\Race.lose.resources
